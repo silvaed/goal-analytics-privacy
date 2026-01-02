@@ -43,21 +43,27 @@ These services collect anonymous usage data and diagnostic information to improv
 
 ---
 
-### **3. Payments**
+### **3. Ads**
+The app uses Google AdMob to display advertisements. 
+For users in the European Union, the app uses Google User Messaging Platform (UMP) 
+to request and manage GDPR consent for personalized and non-personalized ads.
+
+
+### **4. Payments**
 
 Premium purchases are securely processed by **Google Play Billing**.
 Goal Analytics does **not** receive or store any payment card information or financial data.
 
 ---
 
-### **4. Push Notifications**
+### **5. Push Notifications**
 
 If you enable notifications, the app stores a notification identifier (FCM Token) to deliver alerts such as match updates.
 You may disable notifications at any time in your device settings.
 
 ---
 
-### **5. Data Storage**
+### **6. Data Storage**
 
 Some data may be cached locally on your device to improve performance.
 
@@ -66,7 +72,7 @@ Firebase services may store anonymized data on secure Google servers.
 
 ---
 
-### **6. Data Sharing**
+### **7. Data Sharing**
 
 Goal Analytics does **not sell, rent, or share** user data with third parties.
 
@@ -74,29 +80,30 @@ Data may only be shared if legally required by authorities.
 
 ---
 
-### **7. Children’s Privacy**
+### **8. Children’s Privacy**
 
 Goal Analytics does not knowingly collect personal information from children under 13.
 If you believe a child has provided data, please contact us and we will remove it.
 
 ---
 
-### **8. Your Rights**
+### **9. Your Rights**
 
 You may request deletion of anonymized data linked to your use of the app by contacting us.
 We will process valid requests in accordance with applicable laws.
 
 ---
 
-### **9. Changes to This Policy**
+### **10. Changes to This Policy**
 
 This Privacy Policy may be updated when necessary. Any changes will be published on this page.
 
 ---
 
-### **10. Contact**
+### **11. Contact**
 
 If you have any questions about this Privacy Policy, please contact us:
 
 📧 **[footballstatsworld@gmail.com](mailto:footballstatsworld@gmail.com)**
+
 
