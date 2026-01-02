@@ -1,70 +1,102 @@
 ## **Privacy Policy — Goal Analytics**
 
-**Last updated:** *23/Dec/2025*
+**Last updated:** 31/Dec/2025
 
-Goal Analytics respects your privacy. This Privacy Policy explains how information is handled when you use the app.
-
----
-
-### **Information Collection**
-
-Goal Analytics does not require account registration to access its core features.
-
-If you choose to enable optional features such as premium access, the app may use third-party authentication services (for example, Google Sign-In) to identify your account. In this case, limited account-related information may be processed **only as necessary** to provide these features.
-
-Goal Analytics does not collect or store personal information such as passwords, payment card details, or sensitive personal data.
-
-The app displays football statistics and match analysis based on publicly available and aggregated data.
+Goal Analytics respects your privacy. This Privacy Policy explains how your information is handled when you use the app.
 
 ---
 
-### **Analytics and Usage Data**
+### **1. Information We Collect**
 
-Goal Analytics may use analytics services provided by Google (such as Google Analytics for Firebase) to understand how the app is used.
+Goal Analytics does **not** require account registration to use its core features.
 
-These analytics collect **anonymous usage data** (such as app interactions and performance metrics) and are used solely to improve app stability, performance, and user experience.
+The app may collect and process limited technical and usage information, including:
 
----
+* Anonymous Firebase User ID (for app functionality)
+* Device information (model, OS version)
+* App usage statistics (anonymous)
+* Crash logs
+* Push Notification token (FCM Token), only if notifications are enabled
 
-### **Payments**
+This information is used strictly to provide app features, maintain performance, and ensure stability.
 
-Premium purchases are handled securely by Google Play Billing.
+Goal Analytics does **not** collect:
 
-Goal Analytics does not process, store, or have access to payment card information or financial details.
-
----
-
-### **Third-Party Services**
-
-The app relies on third-party services to provide authentication, analytics, and football data.
-
-These services may process limited technical or account-related information in accordance with their own privacy policies. Goal Analytics does not control how third-party services handle data.
-
----
-
-### **Data Storage**
-
-Cached data may be stored locally on your device to improve performance and reduce network usage.
-
-Goal Analytics does not store personal user data on its own servers.
+* names
+* passwords
+* payment card details
+* biometric data
+* sensitive personal information
 
 ---
 
-### **Children’s Privacy**
+### **2. Analytics & App Performance**
 
-Goal Analytics does not knowingly collect personal information from children under the age of 13.
+Goal Analytics may use the following Google Firebase services:
+
+* Firebase Analytics
+* Firebase Crashlytics
+* Firebase Performance
+* Firebase Cloud Messaging
+
+These services collect anonymous usage data and diagnostic information to improve app quality and user experience.
 
 ---
 
-### **Changes to This Policy**
+### **3. Payments**
 
-This Privacy Policy may be updated from time to time. Any changes will be published on this page.
+Premium purchases are securely processed by **Google Play Billing**.
+Goal Analytics does **not** receive or store any payment card information or financial data.
 
 ---
 
-### **Contact**
+### **4. Push Notifications**
 
-If you have questions about this Privacy Policy, please contact:
+If you enable notifications, the app stores a notification identifier (FCM Token) to deliver alerts such as match updates.
+You may disable notifications at any time in your device settings.
 
-**Email:** footballstatsworld@gmail.com
+---
+
+### **5. Data Storage**
+
+Some data may be cached locally on your device to improve performance.
+
+Goal Analytics does **not store personal user data on external servers.**
+Firebase services may store anonymized data on secure Google servers.
+
+---
+
+### **6. Data Sharing**
+
+Goal Analytics does **not sell, rent, or share** user data with third parties.
+
+Data may only be shared if legally required by authorities.
+
+---
+
+### **7. Children’s Privacy**
+
+Goal Analytics does not knowingly collect personal information from children under 13.
+If you believe a child has provided data, please contact us and we will remove it.
+
+---
+
+### **8. Your Rights**
+
+You may request deletion of anonymized data linked to your use of the app by contacting us.
+We will process valid requests in accordance with applicable laws.
+
+---
+
+### **9. Changes to This Policy**
+
+This Privacy Policy may be updated when necessary. Any changes will be published on this page.
+
+---
+
+### **10. Contact**
+
+If you have any questions about this Privacy Policy, please contact us:
+
+📧 **[footballstatsworld@gmail.com](mailto:footballstatsworld@gmail.com)**
 
