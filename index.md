@@ -74,9 +74,10 @@ Firebase services may store anonymized data on secure Google servers.
 
 ### **7. Data Sharing**
 
-Goal Analytics does **not sell, rent, or share** user data with third parties.
-
-Data may only be shared if legally required by authorities.
+Goal Analytics does not sell or rent personal data.
+Limited data may be shared with trusted third-party service providers 
+(such as Google Firebase and Google AdMob) strictly for app functionality,
+analytics, crash reporting and advertising delivery purposes.
 
 ---
 
@@ -105,5 +106,6 @@ This Privacy Policy may be updated when necessary. Any changes will be published
 If you have any questions about this Privacy Policy, please contact us:
 
 📧 **[footballstatsworld@gmail.com](mailto:footballstatsworld@gmail.com)**
+
 
 
